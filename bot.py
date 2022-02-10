@@ -1,4 +1,3 @@
-from multiprocessing import context
 from PIL import Image
 from pytesseract import *
 from io import BytesIO
